@@ -1,0 +1,7 @@
+shubh2294 <shubh2294@example.com> Pawankushwaha13 <155890379+Pawankushwaha13@users.noreply.github.com>
+
+
+git filter-repo --mailmap mailmap.txt
+
+git push --force --mirror origin
+
